@@ -22,7 +22,7 @@
    - 更换背景后
      ![image](https://github.com/user-attachments/assets/bb75d1e1-9134-4d5e-a2fd-61ff2262ca7c)
 2. 图像融合
-   
+指定图像作为背景，可产生图像融合效果。   
 
 
 
